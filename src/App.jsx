@@ -66,7 +66,7 @@ function HeroSection() {
           <div className="hero-image">
             <div className="shoe-image-placeholder">
               <div className="shoe-image-container">
-                <img width="400px" height="450px" src="src\assets\img.avif" alt="" />
+                <img width="400px" height="450px" src="https://res.cloudinary.com/dxpbxhr3o/image/upload/v1765778034/img_vtxdx1.avif" alt="" />
                 <div className="floating-badge">Premium Quality</div>
               </div>
             </div>
